@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Shield Crest (Safe zone centered within 66dp: x: 26 to 82, y: 22 to 86) -->
+    <path
+        android:pathData="M54,23 C68,23 79,29 80,41 C81,59 69,76 54,84 C39,76 27,59 28,41 C29,29 40,23 54,23 Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFDF73"
+        android:fillColor="#15FFFFFF" />
+
+    <!-- Inner Police Shield Border -->
+    <path
+        android:pathData="M54,28 C64,28 73,33 74,42 C75,56 65,70 54,78 C43,70 33,56 34,42 C35,33 44,28 54,28 Z"
+        android:strokeWidth="1.2"
+        android:strokeColor="#C5A047"
+        android:fillColor="#00000000" />
+
+    <!-- Central 8-Pointed Police Star -->
+    <path
+        android:pathData="M54,34 L56.5,43 L65,41 L59,48 L64,55 L55.5,54 L54,63 L52.5,54 L44,55 L49,48 L43,41 L51.5,43 Z"
+        android:fillColor="#FFD95A" />
+
+    <!-- Center Emblem Circle -->
+    <path
+        android:pathData="M54,44 A4.5,4.5 0 1,0 54,53 A4.5,4.5 0 1,0 54,44"
+        android:fillColor="#0B1A30" />
+    <path
+        android:pathData="M54,46 A2.5,2.5 0 1,0 54,51 A2.5,2.5 0 1,0 54,46"
+        android:fillColor="#FFDF73" />
+
+    <!-- W.B.P. Monogram / Ribbon Bar -->
+    <path
+        android:pathData="M38,67 L70,67 L67,73 L41,73 Z"
+        android:fillColor="#FFD95A" />
+    <path
+        android:pathData="M43,69.5 L45,69.5 M49,69.5 L51,69.5 M57,69.5 L59,69.5 M63,69.5 L65,69.5"
+        android:strokeWidth="1.5"
+        android:strokeColor="#0B1A30" />
+</vector>

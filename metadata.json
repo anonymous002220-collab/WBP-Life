@@ -1,0 +1,6 @@
+{
+  "name": "WB Police Life",
+  "description": "Hyper-realistic autonomous documentary West Bengal Police life simulation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
